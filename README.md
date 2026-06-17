@@ -1,4 +1,4 @@
-# 🎭 Face Detection and Recognize
+# 🎭 Face Recognize
 
 A beginner-friendly Python project that detects and recognizes human faces in real-time using a webcam.
 
